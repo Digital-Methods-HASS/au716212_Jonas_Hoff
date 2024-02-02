@@ -1,0 +1,12 @@
+Dictionary of meta-data for perlestikkerbogen data
+Columns
+
+WeekDay: - which sermon of the week it was: H., F., A., O., K., R.
+	H. - Højmesse (Sunday sermon), F. Froprædiken (Sunday morning sermon), A - Alibi (Alternative sermon), K. unknown, R. unknown
+MaleName: - Name of groom
+FemaleName: - Name of bride
+FatherName: - Name of bride's father
+Misc: Other, especially payments are in this column
+Date: Date in either date:month format, in "eodem die" meaning "same as the above day"
+LitDay: Meaning which liturgical day, f.x. 3rd sunday after easter
+ID: Serial Number to keep organized
